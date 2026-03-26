@@ -10,45 +10,17 @@
  */
 class Solution {
 public:
-    // class Node
-    // {
-    //     int val;
-    //     Node *next;
-    // };
-
-    // Node(int data)
-    // {
-    //     val = data;
-    //     next =  nullptr;
-    // }
-
-    // Node *dummy;
-    // int size;
-    
-    // MyLinkedList() {
-    //     dummy = new Node(0);
-    //     size =0;
-    // }
-
     ListNode* middleNode(ListNode* head) {
-        ListNode *temp = head;
-        int size =0;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while(temp != NULL)
+        while(fast != NULL && fast->next != NULL)
         {
-            temp = temp->next;
-            size++;
+            slow = slow->next;
+            fast =  fast->next->next;
         }
 
-        int n= size/2;
-        
-        temp = head;
+        return slow;
 
-        for(int i=0; i<n;i++)
-        {
-            temp = temp->next;
-        }
-
-        return temp;
     }
 };
