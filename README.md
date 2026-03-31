@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
