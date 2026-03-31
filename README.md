@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0155-min-stack) |
 | [0707-design-linked-list](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
