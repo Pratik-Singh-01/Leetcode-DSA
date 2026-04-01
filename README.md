@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0231-power-of-two) |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0155-min-stack) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
