@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0090-subsets-ii) |
