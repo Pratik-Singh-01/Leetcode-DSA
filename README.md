@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -115,9 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
