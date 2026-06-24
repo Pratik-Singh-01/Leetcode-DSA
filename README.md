@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0090-subsets-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
@@ -151,4 +153,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
