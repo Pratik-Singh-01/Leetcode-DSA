@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0231-power-of-two) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
