@@ -11,7 +11,7 @@ from (
         order by e.salary desc
     ) as rnk 
     from Employee as e
-    left join Department as d
+    join Department as d
     on e.departmentId = d.id
 ) as result
 where rnk=1;
