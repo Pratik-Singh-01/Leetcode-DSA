@@ -195,4 +195,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
