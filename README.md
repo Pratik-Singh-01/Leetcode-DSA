@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0184-department-highest-salary) |
+| [0197-rising-temperature](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/Pratik-Singh-01/Leetcode-DSA/tree/master/1280-students-and-examinations) |
